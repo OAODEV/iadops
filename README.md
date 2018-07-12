@@ -17,4 +17,4 @@ Analytical Tools for Ad Ops Pros
   * Between traffickers on a team
     * Who is responsible for what action
   * Between the team and the client (trafficking team and media planning team)
-
+  * Between the publisher and the agency/advertiser
