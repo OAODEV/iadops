@@ -1,7 +1,7 @@
 # iAdOps
 Intelligent Ad Operations
 
-* Concept
+# Concept
 Analytical Tools for Ad Ops Pros
 
 * Observe, Orient, Decide, Act (OODA)
