@@ -6,4 +6,4 @@ Intelligent Ad Operations
 
 **Analytical tools for ad ops pros**
 
-A single place to observe and orient on performance and ops setup details, then decide what to do and coordinate action with the team. Views of current and past state of operations and performance for setup QA, monitoring, and optimization. Coordination between traffickers, sales planners, publishers, and advertisers. Proactive notification to those who need to know about abnormal situations.
+A single place to observe and analyze past performance as well as ops setup details. You can then use those insights to coordinate decisions and action with your team. i(I?)AdOps provides views of both current and past ad operations performances which you can use for QA, monitoring, and optimization. The insights allow for better coordination between traffickers, sales planners, publishers and advertisers. You can also set up proactive notifications based historical insights and send notification to those who need to know about abnormal situations.
