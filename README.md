@@ -36,11 +36,11 @@ Future work.
 
 ## Billing
 
-# Actions and Coordination
+## Reporting Actions and Coordination
 
-## Deep linking
+### Deep linking
 
-## Tearsheet
+### Tearsheet
 
 # Platform
 
