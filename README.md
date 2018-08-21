@@ -60,6 +60,6 @@ Future work.
 
 ### Authorization
 
-## Prefferences
+### Preferences
 
 ## Save report CSV/XLSX
