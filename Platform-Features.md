@@ -13,6 +13,7 @@ The list of qualities, features, and stories Helium supports and provides.
 * As an Analyst, UX Designer, or User I want to make dashboards from multiple reports so that users can efficiently make decisions
 * As a UX Designer or Analyst I want to select report manipulations (filters, sorts, etc.) to make available as configuration so that all configuration options are in line with the purpose of the report
 * As a User I want to set my prefferences so that I can efficiently use my most common settings
+* As a User I want to download the data behind any report so that I can explore it in Excell
 
 ## Features
 
