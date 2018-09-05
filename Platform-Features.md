@@ -24,5 +24,5 @@ The list of qualities, features, and stories Helium supports and provides.
 
 ## Qualities
 
-* Fast respoinse and load
+* Fast response and load
 * Stable availavility and accessibility
